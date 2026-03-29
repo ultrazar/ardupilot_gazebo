@@ -44,7 +44,7 @@
       <visual name='base_visual'>
         <geometry>
           <mesh>
-            <uri>model://iris_with_standoffs/meshes/iris.dae</uri>
+            <uri>model://iris_with_standoffs/meshes/iris.stl</uri>
           </mesh>
         </geometry>
         <material>

@@ -17,7 +17,7 @@
       <visual name="base_visual">
         <geometry>
           <mesh>
-            <uri>model://gimbal_small_3d/meshes/base_plate.dae</uri>
+            <uri>model://gimbal_small_3d/meshes/base_plate.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -51,7 +51,7 @@
       <visual name="yaw_visual">
         <geometry>
           <mesh>
-            <uri>model://gimbal_small_3d/meshes/yaw_arm.dae</uri>
+            <uri>model://gimbal_small_3d/meshes/yaw_arm.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -63,7 +63,7 @@
       <collision name="yaw_collision">
         <geometry>
           <mesh>
-            <uri>model://gimbal_small_3d/meshes/yaw_arm.dae</uri>
+            <uri>model://gimbal_small_3d/meshes/yaw_arm.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -99,7 +99,7 @@
       <visual name="roll_visual">
         <geometry>
           <mesh>
-            <uri>model://gimbal_small_3d/meshes/roll_arm.dae</uri>
+            <uri>model://gimbal_small_3d/meshes/roll_arm.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -111,7 +111,7 @@
       <collision name="roll_collision">
         <geometry>
           <mesh>
-            <uri>model://gimbal_small_3d/meshes/roll_arm.dae</uri>
+            <uri>model://gimbal_small_3d/meshes/roll_arm.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -148,7 +148,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://gimbal_small_3d/meshes/camera_enclosure.dae</uri>
+            <uri>model://gimbal_small_3d/meshes/camera_enclosure.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -161,7 +161,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://gimbal_small_3d/meshes/camera_enclosure.dae</uri>
+            <uri>model://gimbal_small_3d/meshes/camera_enclosure.stl</uri>
           </mesh>
         </geometry>
       </collision>
